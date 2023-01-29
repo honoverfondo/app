@@ -88,9 +88,7 @@ public class Servidor implements Serializable{
 		this.modelo = modelo;
 	}
 
-	public static long getSerialversionuid() {
-		return serialVersionUID;
-	}
+	
 
 	@Override
 	public int hashCode() {

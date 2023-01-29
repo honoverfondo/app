@@ -52,10 +52,6 @@ public class SistemaOperativo implements Serializable {
 		this.descricao = descricao;
 	}
 
-	public static long getSerialversionuid() {
-		return serialVersionUID;
-	}
-
 	private String descricao;
 	
 	

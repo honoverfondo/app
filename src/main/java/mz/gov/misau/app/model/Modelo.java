@@ -50,9 +50,7 @@ public class Modelo implements Serializable{
 		this.dataModelRegisto = dataModelRegisto;
 	}
 
-	public static long getSerialversionuid() {
-		return serialVersionUID;
-	}
+	
 
 	@Override
 	public int hashCode() {
